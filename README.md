@@ -4,12 +4,6 @@ A real-time computer vision pipeline for detecting, aligning, and extracting tex
 
 ---
 
-## Result Preview
-
-![Extraction Result](data/screenshots/Screemshot_18-3-2026.png)
-
----
-
 ## Features
 
 - **Real-time Detection**: Uses edge detection and contour analysis to locate plates.
